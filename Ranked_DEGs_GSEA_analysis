@@ -1,4 +1,4 @@
-# FindMarkers calculate All differential expression genes between Inulin_AD and Ctrl_AD in each cell type in interbrain
+# FindMarkers, calculate All differential expression genes between Inulin_AD and Ctrl_AD in each cell type in interbrain
 # run GSEA: GO-BP, REACTOME, KEGG
 
 remove(list = ls())
